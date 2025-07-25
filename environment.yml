@@ -1,24 +1,5 @@
-channel_priority: strict
 channels:
   - conda-forge
 dependencies:
   - r-base=4.0.0
   - r-tidyverse
-  - r-caret
-  - r-catools
-  - r-cvtools
-  - r-data.table
-  - r-geosphere
-  - r-hdf5r
-  - r-leaflet
-  - r-matrix
-  - r-rcpproll
-  - r-rgdal
-  - r-unbalanced
-  - r-xlsx
-  - r-xml
-  - r-rpart
-  - r-partykit
-  - r-randomForest
-  - r-caret
-  - r-e1071
